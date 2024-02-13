@@ -1,0 +1,44 @@
+AVION CPU PROJECT DOCUMENT    DATE: 13.02.2024
+Ömer Süner, Kerem Yiğit Şimşek, Eren Yüce, Ege Erdoğan
+Istanbul Türkiye
+e-mail: 
+{1omersuner@gmail.com, keremyigit248x@gmail.com ,selimerenyüce08@gmail.com , ege007erdogan@gmail.com)
+
+
+Abstract — Designing a processor with using verilog language.
+Keywords — FPGA, CPU.
+Abstract — Verilog dilini kullanarak işlemci tasarımı.
+Keywords — FPGA, CPU.
+I.	INTRODUCTION
+Within the scope of this project, the RTL design of a processor called Avion-CPU has written in verliog language and various code snippets written in machine language has written on the designed processor
+
+II.	SYSTEM ARCHITECTURE
+Von Neumann Architecture used in processor.
+ 
+
+THİS CPU HAS 4 MAİN UNİTS:
+Register, memory(RAM), processing unit(ALU), control unit.
+
+The processor supports 9 instructions:
+
+ 
+[3:0] Operation code, [5:0] Address or Number	
+
+
+
+III.	SOFTWARE USED
+We use a simulation system while we are making the CPU design in our website.
+
+IV.	RESULTS
+The processor has been successfully coded.
+
+Project Team
+Ömer Süner: Bahçeşehir Fentek 9-C
+Eren Yüce: Bahçeşehir Fentek 9-C
+Ege Erdoğan: Bahçeşehir Fentek 9-D
+Kerem Yiğit Şimşek: Bahçeşehir Fentek 9-C
+
+Reference Files
+https://github.com/1omersuner/Avion-CPU
+https://youtu.be/dIRrF21SB5I
+
